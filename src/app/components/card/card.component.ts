@@ -11,6 +11,6 @@ export class CardComponent {
   @Input() gameLabel: string = 'Exclusive';
   @Input() gameType:string = "Digital PS4";
   @Input() consoleType:string = "| PS4";
-  @Input() gamePrice:string = "$ 59,99"
+  @Input() gamePrice:string = "$ 39,99"
 
 }

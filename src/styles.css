@@ -7,7 +7,7 @@
   --bs-body-color: #ececec;
   --bs-dark: #111;
   --bs-body-bg: #111;
-  --bs-secondary: #2C2C2C;
+  --bs-secondary: #967171;
   --bs-emphasis-color-rgb: 255,255,255;
 }
 
@@ -20,8 +20,8 @@ html, body { height: 100% }
 
 body {
   overflow-x: hidden;
-  background: rgb(2, 0, 36);
-  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(9,9,121,1) 100%);
+  background: rgb(107, 105, 157);
+  background: linear-gradient(90deg, rgb(171, 138, 225) 0%, rgb(130, 74, 168) 35%, rgb(82, 47, 126) 100%);
 }
 
 main,
